@@ -13,7 +13,7 @@ I'm a Senior Software Developer with over 3 years of experience in the field. My
 * Anything related to Android development I'm always happy to help!
 
 **📫 How to reach me**  
-* LinkedIn:[Manish Shekhada](www.linkedin.com/in/manish-shekhada-157224245)
+* LinkedIn: [Manish Shekhada](https://www.linkedin.com/in/manish-shekhada-157224245)
 
 **⚡ Fun fact**
 * I love experimenting with new recipes in my free time!
